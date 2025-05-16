@@ -17,12 +17,13 @@
 
 ## ✨ Features
 
-✅ Parse resumes in **PDF**, **DOCX**, or **scanned image** format
-✅ Extract structured fields: **Name, Email, Skills, Experience, Education, Projects**
-✅ Rank candidates using **semantic similarity (SBERT)** + **rule-based scoring**
-✅ Visualize results with **score breakdowns** and **filters**
-✅ Store and manage data in **MongoDB**
-✅ Responsive **web interface** with **filter/search**
+* ✅ **Parse resumes** in PDF, DOCX, or scanned image format
+* ✅ **Extract structured fields**: Name, Email, Skills, Experience, Education, Projects
+* ✅ **Rank candidates** using semantic similarity (SBERT) + rule-based scoring
+* ✅ **Visualize results** with score breakdowns and filters
+* ✅ **Store and manage data** in MongoDB
+* ✅ **Responsive web interface** with filter/search functionality
+
 
 ---
 
@@ -41,10 +42,10 @@
 
 ## 🔧 Prerequisites
 
-✅ Python 3.10+
-✅ MongoDB
-✅ pip and virtualenv
-✅ Internet access to download NLP models
+* ✅ **Python 3.10+**
+* ✅ **MongoDB**
+* ✅ **pip and virtualenv**
+* ✅ **Internet access** to download NLP model and dependencies
 
 ---
 
@@ -144,11 +145,11 @@ NeoHire/
 
 ## 🚀 Future Enhancements
 
-🌐 **Cloud Deployment:** Host on AWS, Azure, or GCP
-🔍 **Advanced Filtering:** Filter resumes by skills, experience, or location
-🧠 **Multilingual Support:** Extend spaCy to parse non-English resumes
-💾 **Database Logging:** Track uploads, scores, and ranking history
-🧾 **Export Results:** Export shortlisted resumes as PDF/CSV reports
+* 🌐 **Cloud Deployment**: Host on AWS, Azure, or GCP
+* 🔍 **Advanced Filtering**: Filter resumes by skills, experience, or location
+* 🧠 **Multilingual Support**: Extend spaCy to parse non-English resumes
+* 💾 **Database Logging**: Track uploads, scores, and ranking history
+* 🧾 **Export Results**: Export shortlisted resumes as PDF/CSV reports
 
 ---
 
